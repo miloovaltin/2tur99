@@ -1,16 +1,16 @@
 {
-"name": "2tur99",
-"theme": "2tur99",
-"version": "8.4.9",
-"description": "2tur99 ทางเข้าหลักเว็บไซต์แทงบอลเว็บตรง อันดับ 1 ให้เครดิตฟรี",
-"keywords": [
-"2tur99",
-"2tur99 เครดิตฟรี",
-"2tur99 ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/2tur99",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "2tur99",
+  "theme": "2tur99",
+  "version": "8.5.0",
+  "description": "2tur99 ทางเข้าหลักเว็บไซต์แทงบอลเว็บตรง อันดับ 1 ให้เครดิตฟรี",
+  "keywords": [
+    "2tur99",
+    "2tur99 เครดิตฟรี",
+    "2tur99 ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/2tur99",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
